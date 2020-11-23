@@ -1,13 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to the ePortfolio for Nathan Adrian
 
-You can use the [editor on GitHub](https://github.com/nateadrian5/nateadrian5.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This site will attempt to showcase the various projects that I have worked on and completed in both School and Work, as well as freelance items. Like many others, my career and educational path is unique and encompasses various skills and markets some of which including the following:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Official Career
+- Land Surveyor _in Michigan, in the winter_
+- Field Technician - Hydrology Department _Fancy title for one who works with and in Sanitary Sewers, yes IN_
+- Network Technician _Roles included all things technology_
+- Sr. SharePoint Administrator
+- Sr. Cloud Applications Administrator
 
-### Markdown
+### Freelance
+- Tax preparation
+- Web Developer/Designer _Drupal, SharePoint, jQuery, JavaScript_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### College Courses/Skills
+- Java
+- C++
+- Ruby
+- C
+- Python
 
+One of the courses in specific, **CS 499**, focuses on this ePortfolio and specific projects and skills. In working through this course one of the tasks was to perform a code review on a project we have worked on in the past as well as enhancing it. 
+
+## Project Overview
+The original project was a solitaire game that was written in Ruby for a 300 level CS course. It is a version of one-handed solitaire. The game play is automated but allows stepping through it interactively. It is a simple command line interface with no GUI.
+
+### Code Review
+The code review was completed and can be seen in the following video: [link]()
+
+<!---
 ```markdown
 Syntax highlighted code block
 
@@ -35,3 +56,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*/
+-->
