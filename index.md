@@ -25,9 +25,36 @@ One of the courses in specific, **CS 499**, focuses on this ePortfolio and speci
 ## Project Overview
 The original project was a solitaire game that was written in Ruby for a 300 level CS course. It is a version of one-handed solitaire. The game play is automated but allows stepping through it interactively. It is a simple command line interface with no GUI.
 
-### Code Review
+## Code Review
 The code review was completed and can be seen in the following video: [link](https://drive.google.com/file/d/1B-wucU2X-tE4GrbXRjbZBfcfN7-erDXr/view?usp=sharing)
 
+## Project Details
+The solitaire game introduced above and shown in the code review video will be enahanced and adjusted while focusing on three areas:#Software Design and Engineering#, #Algorithms and Data Structure#, and #Databases#.
+
+### Software Design and Engineering
+The original design will be utilized, however, it was re-engineered by translated to Java instead of Ruby.
+
+Both languages support *Object Orientated Design*. The original code was created via objects, and this will continue in the Java Version as well to keep it modular and flexible. Extending this to provide a GUI, is feasible as well by keeping the Object Orientated Design. 
+
+Further enhancements have been achieved by building in test cases based on what was learned in CS 320, with #Software Testing, Automation, and Quality Assurance. Unit testing# has been added and used to ensure better coding. Unit testing has been included to verify the functionality of the various classes and methods. Tests have been written and verified for the methods in the Card, Hand, Deck, and LeaderBoard classes. A test suite has been created to run all the tests. Currently the tests cover 73% of the code. 
+
+*Advanced Programming Concepts*, _CS 340_, was leveraged to assist in the transition of moving to a different programming language. The lessons learned in learning how to research and comprehend the scope and nuance’s in varying languages have been applied to help with the transition. For instance, in moving from an array to a linked list, the details of how Java handles those needs to be understood fully. 
+
+This can be seen in the topCards method of the Hand class. Ensuring that the top 4 cards are returned requires the knowledge that the subList method in Java for Lists is inclusive for the start index, but exclusive for the end index. 
+
+Also, the use of the Iterator in Java allows the scoring and the output of the hand and deck to be safer and not suffer from out of bounds issues. 
+
+### Algorithms and Data Structure
+The data structure has been adjusted to not rely solely on Arrays for the deck, hand, and leader board.
+
+The information learned from *CS 260: Data Structures and Algorithms* has been applied as the data structure to hold the deck and hand collections moves from an array to a Linked List which provides better resource management and faster compute time.
+
+Furthermore, iterating over a Linked List allows for safer built-in functionality to ensure that out of bounds errors do not occurs. This also provide quicker interactions and safer handling of growth or shrinkage with Pop and Push like behavior. 
+
+### Databases
+The leader board has been moved outside of a simple text file and converted to a MongoDB which is hosted by Atlas. This is currently retrieved and displayed in the standard output still. The current program does retrieve the leader board and will set new high scores. Functionality has been added to clear the leaderboard as well. This is mainly for testing purposes but could also be implemented to reset the scores on a schedule, perhaps daily or weekly. 
+
+Utilizing MongoDb has simplified the ranking and ordering of the data as the built-in power of how MongoDb handles documents is leveraged. New leaders are created as a simple bson document and loaded into a collection, which is stored in the Database. Ultimately this is how a MongoDb is organized. 
 <!---
 ```markdown
 Syntax highlighted code block
