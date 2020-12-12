@@ -14,7 +14,7 @@ This site will attempt to showcase the various projects that I have worked on an
 - Web Developer/Designer _Drupal, SharePoint, jQuery, JavaScript_
 
 ### College Courses/Skills
-- Java: jUnit testing which can be seen [here](https://bitbucket.org/nathanadrian05/calculator2/src). Other projects include a funcitonal Chess game and a Solitaire game which is described below.
+- Java: jUnit testing which can be seen [here](https://bitbucket.org/nathanadrian05/calculator2/src). Other projects include a functional Chess game and a Solitaire game which is described below.
 - C++: Various algorithms related to Algorithms and Data Scture can be seen [here](https://github.com/nateadrian5/class_work/tree/master/c%2B%2B) as well as various Visual Graphics using OpenGL.
 - Ruby: A few programs can be seen [here](https://github.com/nateadrian5/class_work/tree/master/ruby) including the original version of the solitaire game that is described below. 
 - C: Various labs were done investigating the inner workings of the Operating System
