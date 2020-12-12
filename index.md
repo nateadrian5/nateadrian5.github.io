@@ -14,11 +14,11 @@ This site will attempt to showcase the various projects that I have worked on an
 - Web Developer/Designer _Drupal, SharePoint, jQuery, JavaScript_
 
 ### College Courses/Skills
-- Java
-- C++
-- Ruby
-- C
-- Python
+- Java: jUnit testing which can be seen [here](https://bitbucket.org/nathanadrian05/calculator2/src). Other projects include a funcitonal Chess game and a Solitaire game which is described below.
+- C++: Various algorithms related to Algorithms and Data Scture can be seen [here](https://github.com/nateadrian5/class_work/tree/master/c%2B%2B) as well as various Visual Graphics using OpenGL.
+- Ruby: A few programs can be seen [here](https://github.com/nateadrian5/class_work/tree/master/ruby) including the original version of the solitaire game that is described below. 
+- C: Various labs were done investigating the inner workings of the Operating System
+- Python: Various modules were completed in a Math class looking at the statistics of a Solar Plant can be seen [here](https://github.com/nateadrian5/class_work/tree/master/python).
 
 One of the courses in specific, **CS 499**, focuses on this ePortfolio and specific projects and skills. In working through this course one of the tasks was to perform a code review on a project we have worked on in the past as well as enhancing it. 
 
@@ -27,6 +27,8 @@ The original project was a solitaire game that was written in Ruby for a 300 lev
 
 ## Code Review
 The code review was completed and can be seen in the following video: [link](https://drive.google.com/file/d/1B-wucU2X-tE4GrbXRjbZBfcfN7-erDXr/view?usp=sharing)
+The original Ruby code can be seen in git: [Car Solitaire - Ruby](https://github.com/nateadrian5/class_work/blob/master/ruby/solitare.rb)
+The full Java code can be seen in git: [Car Solitaire - Java](https://github.com/nateadrian5/class_work/tree/master/java/CarSolitaire)
 
 ## Project Details
 The solitaire game introduced above and shown in the code review video will be enahanced and adjusted while focusing on three areas:**Software Design and Engineering**, **Algorithms and Data Structure**, and **Databases**.
