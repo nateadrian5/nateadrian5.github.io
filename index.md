@@ -14,13 +14,13 @@ This site will attempt to showcase the various projects that I have worked on an
 - Web Developer/Designer _Drupal, SharePoint, jQuery, JavaScript_
 
 ### College Courses/Skills
-My Collegiate journey has spanned twenty years and four diferent Colleges/Univeristies. Some of what these courses and projects taught me, was how to learn new programming languages, how to design a program to best standards, and how to test and verify the code that is written. I also learned how to be a programmer, software designer, tester, analyst, and many other roles. One of the more difficult classes, [CIS 451 - Computer Architecture](https://www.gvsu.edu/catalog/course/cis-451.htm) at Grand Valley State Univeristy taught me the inner workings of the CPU and machine language. The course [CIS 343 – Structure of Programming Languages](https://www.gvsu.edu/catalog/course/cis-343.htm) also at GVSU was the most memorable as it showed me that learning new programming languages was a skill that was already learned in previous courses and just needed to be applied differently.
+My Collegiate journey has spanned twenty years and four different Colleges/Universities. Some of what these courses and projects taught me, was how to learn new programming languages, how to design a program to best standards, and how to test and verify the code that is written. I also learned how to be a programmer, software designer, tester, analyst, and many other roles. One of the more difficult classes, [CIS 451 - Computer Architecture](https://www.gvsu.edu/catalog/course/cis-451.htm) at Grand Valley State University taught me the inner workings of the CPU and machine language. The course [CIS 343 – Structure of Programming Languages](https://www.gvsu.edu/catalog/course/cis-343.htm) also at GVSU was the most memorable as it showed me that learning new programming languages was a skill that was already learned in previous courses and just needed to be applied differently.
 
 Transferring to SNHU, especially so late in my journey, was daunting at first, progress was made steady and enlightening. The course CS 340: Advanced Programming Concepts at SNHU gave me a glimpse into the day-to-day life of many roles in a Software Development team and many of the skills learned for agile and scrum I still use daily in my career. Similarly, the course CS 310 : Collaboration and Team Project at SNHU has also taught me many skills that I continue to use. Some of these skills are the use of Git and BitBucket including peer review and pull requests as well as how to collaborate better with teammates.
 
 #### Some of the various skills learned
 - Java: jUnit testing which can be seen [here](https://bitbucket.org/nathanadrian05/calculator2/src). Other projects include a functional Chess game and a Solitaire game which is described below.
-- C++: Various algorithms related to Algorithms and Data Scture can be seen [here](https://github.com/nateadrian5/class_work/tree/master/c%2B%2B) as well as various Visual Graphics using OpenGL.
+- C++: Various algorithms related to Algorithms and Data Structure can be seen [here](https://github.com/nateadrian5/class_work/tree/master/c%2B%2B) as well as various Visual Graphics using OpenGL.
 - Ruby: A few programs can be seen [here](https://github.com/nateadrian5/class_work/tree/master/ruby) including the original version of the solitaire game that is described below. 
 - C: Various labs were done investigating the inner workings of the Operating System
 - Python: Various modules were completed in a Math class looking at the statistics of a Solar Plant can be seen [here](https://github.com/nateadrian5/class_work/tree/master/python).
@@ -36,10 +36,10 @@ The original Ruby code can be seen in git: [Car Solitaire - Ruby](https://github
 The full Java code can be seen in git: [Car Solitaire - Java](https://github.com/nateadrian5/class_work/tree/master/java/CarSolitaire)
 
 ## Project Details
-The solitaire game introduced above and shown in the code review video will be enahanced and adjusted while focusing on three areas:**Software Design and Engineering**, **Algorithms and Data Structure**, and **Databases**.
+The solitaire game introduced above and shown in the code review video will be enhanced and adjusted while focusing on three areas: **Software Design and Engineering**, **Algorithms and Data Structure**, and **Databases**.
 
 ### Software Design and Engineering
-The original design will be utilized, however, it was re-engineered by translated to Java instead of Ruby.
+The original design will be utilized; however, it was re-engineered by translated to Java instead of Ruby.
 
 Both languages support **Object Orientated Design**. The original code was created via objects, and this will continue in the Java Version as well to keep it modular and flexible. Extending this to provide a GUI, is feasible as well by keeping the Object Orientated Design. 
 
