@@ -8,6 +8,7 @@ This site will attempt to showcase the various projects that I have worked on an
 - Network Technician - _Roles included all things technology_
 - Sr. SharePoint Administrator
 - Sr. Cloud Applications Administrator
+- Cloud Engineer
 
 ### Freelance
 - Tax preparation
